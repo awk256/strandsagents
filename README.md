@@ -4,9 +4,8 @@ PythonまたはTypeScriptで、**ツール連携（Tool Use）**や**マルチ�
 
 **「もっとシンプルに、そして人間のように自律的に動くエージェントを作りたい」** という開発者の想いから生まれ、**LangChainの対抗馬**としても注目を集めています。
 
+<img src="images/strands_agent_technical_guide.png" width="400" alt="図解Strandsエージェント徹底解説">
 
-![[images/strands_agent_technical_guide.png|400]]
-**図解Strandsエージェント徹底解説**
 
 
 本サイト（**「図解」Strandsエージェント徹底解説**）は、筆者が **Strands Agent** を学習する過程で記録したメモをベースに構成しています。  
@@ -23,21 +22,21 @@ PythonまたはTypeScriptで、**ツール連携（Tool Use）**や**マルチ�
 ---
 ### 著者プロフィール
 #### 李 昌桓（LEE CHANFUAN）
-- **[クリエーションライン株式会社](https://www.creationline.com) 在籍**
-- **現代的なデータ基盤構築のソリューション・アーキテクト、リードエンジニアとして活動中**
-- **代表的なプロジェクト：**
-	- **大手通信キャリアのデータウェアハウス構築のDBA・バックエンドの開発**
-	- **Donso Factory IoTのデータモダナイゼーション**
-	 - **ヨドバシカメラのデータモダナイゼーション**
-	 - **モノタロウのデータモダナイゼーションなど  **
+- [クリエーションライン株式会社](https://www.creationline.com) 在籍
+- 現代的なデータ基盤構築のソリューション・アーキテクト、リードエンジニアとして活動中
+- 代表的なプロジェクト：
+	- 大手通信キャリアのデータウェアハウス構築のDBA・バックエンドの開発
+	- Donso Factory IoTのデータモダナイゼーション
+	 - ドバシカメラのデータモダナイゼーション
+	 - モノタロウのデータモダナイゼーションなど  
 
 #### 著書
-- **Amazon Cloudテクニカルガイド ― EC2/S3からVPCまで徹底解析**
-- **Amazon Elastic MapReduceテクニカルガイド ― クラウド型Hadoopで実現する大規模分散処理**
-- **Cypherクエリー言語の事例で学ぶ グラフデータベース Neo4j**
-- **Neo4jを使うグラフ型データベース入門（共著）**
-- **RDB技術者のためのNoSQLガイド（共著）**
-- **図解Strandsエージェント徹底解説**
+- Amazon Cloudテクニカルガイド ― EC2/S3からVPCまで徹底解析
+- Amazon Elastic MapReduceテクニカルガイド ― クラウド型Hadoopで実現する大規模分散処理
+- Cypherクエリー言語の事例で学ぶ グラフデータベース Neo4j
+- Neo4jを使うグラフ型データベース入門（共著）
+- RDB技術者のためのNoSQLガイド（共著）
+- 図解Strandsエージェント徹底解説
 
 ---
 
@@ -66,7 +65,7 @@ FROM "AI/StrandsAgents/10.基本構成"
 #### 20.安全性とセキュリティ
 ```dataview
 LIST
-FROM "AI/Strands Agents/20.安全性とセキュリティ"
+FROM "AI/StrandsAgents/20.安全性とセキュリティ"
 ```
 
 #### 30.可観測性とセキュリティ
@@ -76,11 +75,8 @@ FROM "AI/StrandsAgents/30.可観測性とデバック"
 ```
 
 #### 40.評価SDK
-```dataview
-LIST
-FROM "AI/StrandsAgents/40.評価SDK"
-```
 
+[40-000.評価SDKの概念](40.評価SDK/40-000.評価SDKの概念.md)
 #### 50.デプロイ
 ```dataview
 LIST
