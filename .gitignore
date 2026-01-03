@@ -1,10 +1,12 @@
-Tips.md
+.obsidian/workspace*
+.obsidian/cache/
+.trash/
+.DS_Store
+
+/Tips.md
 /pdf/*.pdf
 
-*.pdf
-/pdf/
+/big.jar
 
 
-*.pdf
-/pdf/
 
