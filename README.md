@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 **Apache Strands Agent（ストランズ・エージェント）** は、AWS主導で開発された**オープンソースのAIエージェントSDK**で、2025年5月16日に一般公開されました。  
 PythonまたはTypeScriptで、**ツール連携（Tool Use）**や**マルチエージェント（Multi-Agent）**の構築を直感的に行える**軽量なフレームワーク**です。
@@ -106,3 +107,6 @@ FROM "AI/Strands Agents/70.サンプルコード"
 LIST
 FROM "AI/Strands Agents/80.Amazon Bedrok AgentCore"
 ```
+=======
+# strandsagents
+>>>>>>> 3b3026fce6988b4889faaddf25e412582d2ad71c
