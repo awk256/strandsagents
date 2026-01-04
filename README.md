@@ -49,6 +49,16 @@
 - [StrandsエージェントのGithub](https://github.com/strands-agents/)
 - [Amazon Bedrock AgentCore Developer Guide](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
 - [Amazon Bedrodk AgentCore Samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
+    
+### 著作権・ライセンス
+---
+本サイトの著作権は著者に帰属します。
+
+ - AI学習・研究目的: 出典を明記の上、自由にご利用いただけます。
+ - 営利・二次利用: 無断転載や有償イベントでの利用は禁止します。
+ - 改変: 自由ですが、すべて自己責任となります。
+
+ 詳細は [LICENSE](LICENSE.md) ファイルをご確認ください。
 
 ### 目次
 ---
