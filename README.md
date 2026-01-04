@@ -91,7 +91,6 @@ PythonまたはTypeScriptで、ツール連携（Tool Use）やマルチエー�
 #### 70.サンプルコード
 [70-00-000.サンプルコードについて](70.サンプルコード/70-00-000.サンプルコードについて.md)  
 [70-10-010.シンプルエージェント](70.サンプルコード/70-10-010.シンプルエージェント.md)  
-
 #### 80.Amazon Bedrok AgentCore
 [80-00-000.AgentCore](80.AmazonBedrockAgentCore/80-00-000.AgentCore.md) 
 [80-10-010.ゲートウェイ](80.AmazonBedrockAgentCore/80-10-010.ゲートウェイ.md) 
@@ -106,3 +105,6 @@ PythonまたはTypeScriptで、ツール連携（Tool Use）やマルチエー�
 [80-20-010.ラインタイム](80.AmazonBedrockAgentCore/80-20-010.ランタイム.md) 
 [80-30-010.可観測性](80.AmazonBedrockAgentCore/80-30-010.可観測性.md) 
 [80-30-020.評価](80.AmazonBedrockAgentCore/80-30-020.評価.md) 
+
+
+
