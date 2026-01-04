@@ -1,5 +1,5 @@
 # 図解Strandsエージェント徹底解説
----
+
 **Apache Strands Agent**は、AWS主導で開発されたオープンソースのAIエージェントSDKで、2025年5月16日に一般公開されました。 
 
 **Strands（ストランズ）** は、PythonまたはTypeScriptで、ツール連携（Tool Use）やマルチエージェントの構築を直感的に行える軽量なフレームワークです。
