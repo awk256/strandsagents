@@ -12,7 +12,7 @@ PythonまたはTypeScriptで、ツール連携（Tool Use）やマルチエー�
 本サイト（図解Strandsエージェント徹底解説）は、筆者が Strands Agent を学習する過程で記録したメモをベースに構成しています。  
 これは、筆者のこれまでの執筆経験から、膨大な知識体系を短期間で習得するには、「一冊の本を書くようにまとめるアプローチ」が最も効果的であると考えているためです。
 
-本サイトの内容が、Strandsを学ぶ皆様の一助となれば幸いです。  
+本サイトの内容が、Strandsエージェントを学ぶ皆様の一助となれば幸いです。  
 ただし、筆者の感性に基づいて要約・再構成した内容が含まれているため、掲載内容やサンプルコードをご利用の際は、ご自身の判断と責任にてお願いいたします。
 
 内容は随時更新・変更される可能性がありますので、あらかじめご了承ください。
@@ -25,7 +25,7 @@ PythonまたはTypeScriptで、ツール連携（Tool Use）やマルチエー�
 - [クリエーションライン株式会社](https://www.creationline.com) 在籍
 - 現代的なデータ基盤構築のソリューション・アーキテクト、リードエンジニアとして活動中
 - 代表的なプロジェクト：
-	- 大手通信キャリアのデータウェアハウス構築のDBA・バックエンドの開発
+	- 大手通信キャリアのデータウェアハウスのDBA・バックエンドの構築
 	- Donso Factory IoTのデータモダナイゼーション
 	 - ドバシカメラのデータモダナイゼーション
 	 - モノタロウのデータモダナイゼーションなど  
@@ -106,18 +106,17 @@ PythonまたはTypeScriptで、ツール連携（Tool Use）やマルチエー�
 
 #### 80.Amazon Bedrok AgentCore
 
-[80-00-000.AgentCore](80.AmazonBedrockAgentCore/80-00-000.AgentCore.md)
-[80-10-010. ゲートウェイ](80.AmazonBedrokAgentCore/80-10-010. ゲートウェイ.md)
-[80-10-011.ステート](80.AmazonBedrockAgentCore/80-10-011.ステート.md)
-[80-10-012.ターゲット](80.AmazonBedrockAgentCore/80-10-012.ターゲット.md)
-[80-10-020.ポリシー](80.AmazonBedrockAgentCore/80-10-020.ポリシー.md)
-[80-10-030.メモリ](80.AmazonBedrockAgentCore/80-10-030.メモリ.md)
-[80-10-031.短期記憶](80.AmazonBedrockAgentCore/80-10-031.短期記憶.md)
-[80-10-032.長期記憶](80.AmazonBedrockAgentCore/80-10-032.長期記憶.md)
-[80-10-040.アイデンティティ](80.AmazonBedrockAgentCore/80-10-040.アイデンティティ.md)
-[80-10-050.ブラウザー](80.AmazonBedrockAgentCore/80-10-050.ブラウザー.md)
-[80-10-060.コード・インタープリター](80.AmazonBedrockAgentCore/80-10-060.コード・インタープリター.md)
-[80-20-010.ラインタイム](80.AmazonBedrockAgentCore/80-20-010.ランタイム.md)
-[80-30-010.可観測性](80.AmazonBedrockAgentCore/80-30-010.可観測性.md)
-[80-30-020.評価](80.AmazonBedrockAgentCore/80-30-020.評価.md)
+[80-00-000.AgentCore](80.AmazonBedrockAgentCore/80-00-000.AgentCore.md) 
+[80-10-010. ゲートウェイ](80.AmazonBedrokAgentCore/80-10-010. ゲートウェイ.md) 
+[80-10-012.ターゲット](80.AmazonBedrockAgentCore/80-10-012.ターゲット.md) 
+[80-10-020.ポリシー](80.AmazonBedrockAgentCore/80-10-020.ポリシー.md) 
+[80-10-030.メモリ（記憶）](80.AmazonBedrockAgentCore/80-10-030.メモリ（記憶）.md) 
+[80-10-031.短期記憶](80.AmazonBedrockAgentCore/80-10-031.短期記憶.md) 
+[80-10-032.長期記憶](80.AmazonBedrockAgentCore/80-10-032.長期記憶.md) 
+[80-10-040.アイデンティティ](80.AmazonBedrockAgentCore/80-10-040.アイデンティティ.md) 
+[80-10-050.ブラウザー](80.AmazonBedrockAgentCore/80-10-050.ブラウザー.md) 
+[80-10-060.コード・インタープリター](80.AmazonBedrockAgentCore/80-10-060.コード・インタープリター.md) 
+[80-20-010.ラインタイム](80.AmazonBedrockAgentCore/80-20-010.ランタイム.md) 
+[80-30-010.可観測性](80.AmazonBedrockAgentCore/80-30-010.可観測性.md) 
+[80-30-020.評価](80.AmazonBedrockAgentCore/80-30-020.評価.md) 
 
