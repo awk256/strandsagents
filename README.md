@@ -48,7 +48,8 @@
 
 ### 掲載内容について
 ---
-『図解 Strandsエージェント徹底解説』は、Strandsエージェントおよび AWS の公式ドキュメント、ならびに GitHub 上のサンプルコードをベースに構成しています。
+『図解 Strandsエージェント徹底解説』は、基本的に Strands エージェントおよび AWS の公式ドキュメント、ならびに GitHub 上のサンプルコードをベースに構成しています。  
+掲載しているサンプルコードの中には、筆者の創意工夫によって独自に作成したものも含まれており、その場合はタイトルの末尾に「＋」を付けて区別しています。
 
 - [Strands User Guide/](https://strandsagents.com/latest/documentation/docs/)
 - [Strands Githubs](https://github.com/strands-agents/)
