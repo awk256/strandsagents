@@ -143,7 +143,7 @@
 - [70-30-021.長期記憶の検索＋](70.サンプルコード/70-30-021.長期記憶の検索＋.md)
 
 #### 80.Amazon Bedrok AgentCore
-- [80-00-000.AgentCore](80.AmazonBedrockAgentCore/80-00-000.AgentCore.md)  
+- [80-00-000.AgentCoreとは](80.AmazonBedrockAgentCore/80-00-000.AgentCoreとは.md)  
 - [80-10-010.ゲートウェイ](80.AmazonBedrockAgentCore/80-10-010.ゲートウェイ.md)  
 - [80-10-012.ターゲット](80.AmazonBedrockAgentCore/80-10-012.ターゲット.md)  
 - [80-10-020.ポリシー](80.AmazonBedrockAgentCore/80-10-020.ポリシー.md)  
