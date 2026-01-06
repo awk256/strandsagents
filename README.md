@@ -21,9 +21,9 @@
 内容は適宜更新・修正される可能性がありますので、あらかじめご了承ください。
 
 2026年1月1日
-
-
-
+　
+　
+　
 ### 著者プロフィール
 ---
 #### 李 昌桓（LEE CHANFUAN）
@@ -33,7 +33,6 @@
 - 代表的なプロジェクト:
 	- 大手通信キャリアにおけるDWH基盤の設計・運用
 	- Donso Factory IoT、ヨドバシカメラ、モノタロウなどにおけるデータモダナイゼーションを推進
-	
 #### 著書
 
 - Amazon Cloudテクニカルガイド ― EC2/S3からVPCまで徹底解析、インプレスジャパン、2010
@@ -43,9 +42,9 @@
 - RDB技術者のためのNoSQLガイド（共著）、秀和システム新社、2016
 - 図解Strandsエージェント徹底解説、[注]、2025
 >[注]『図解 Strandsエージェント徹底解説』はWeb上で公開しており、紙での出版は予定していません。
-	 
-
-
+　
+　
+　
 ### 掲載内容について
 ---
 『図解 Strandsエージェント徹底解説』は、Strandsエージェントおよび AWS の公式ドキュメント、ならびに GitHub 上のサンプルコードをベースに構成しています。
@@ -56,9 +55,9 @@
 - [ Strands Python API](https://strandsagents.com/latest/documentation/docs/api-reference/python/agent/agent/)
 - [Amazon Bedrock AgentCore Developer Guide](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
 - [Amazon Bedrock AgentCore Samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
-
-
-
+　
+　
+　
 ### 著作権・ライセンス
 ---
 本サイトの著作権は著者に帰属します。
@@ -68,8 +67,8 @@
  - 改変: 自由ですが、すべて自己責任となります。
 
  詳細は [LICENSE](LICENSE.md) ファイルをご確認ください。
-
-
+　
+　
 　
 ### 章立てについて
 ---
