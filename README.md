@@ -141,8 +141,11 @@
 - [70-30-013.短期記憶の検索＋](70.サンプルコード/70-30-013.短期記憶の検索＋.md)
 - [70-30-020.朝まで生テレビー長期記憶版＋](70.サンプルコード/70-30-020.朝まで生テレビー長期記憶版＋.md)
 - [70-30-021.長期記憶の検索＋](70.サンプルコード/70-30-021.長期記憶の検索＋.md)
-
-#### 80.Amazon Bedrok AgentCore
+- [70-90-010.TexToSQL＋](70.サンプルコード/70-90-010.TexToSQL＋.md)
+- [70-90-011.実行結果](70.サンプルコード/70-90-011.実行結果.md)
+- [70-90-020.足立区の壮大ごみ判別＋](70.サンプルコード/70-90-020.足立区の壮大ごみ判別＋.md)
+- [70-90-021.事前準備](70.サンプルコード/70-90-021.事前準備.md)
+#### 80.Bedrok AgentCore
 - [80-00-000.AgentCoreとは](80.AmazonBedrockAgentCore/80-00-000.AgentCoreとは.md)  
 - [80-10-010.ゲートウェイ](80.AmazonBedrockAgentCore/80-10-010.ゲートウェイ.md)  
 - [80-10-012.ターゲット](80.AmazonBedrockAgentCore/80-10-012.ターゲット.md)  
@@ -157,3 +160,5 @@
 - [80-30-010.可観測性](80.AmazonBedrockAgentCore/80-30-010.可観測性.md)  
 - [80-30-020.評価](80.AmazonBedrockAgentCore/80-30-020.評価.md)  
 
+#### 80.Bedrock Knowledge Base
+- [81-00.Bedrock Knowldege Baseとは](81.BedrockKnowledgeBase/81-00.Bedrock%20Knowldege%20Baseとは.md)]
