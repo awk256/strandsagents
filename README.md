@@ -21,8 +21,7 @@
 内容は適宜更新・修正される可能性がありますので、あらかじめご了承ください。
 
 2026年1月1日
-<br>
-<br>
+<br><br>
 
 
 ### 著者プロフィール
@@ -30,7 +29,7 @@
 #### 李 昌桓（LEE CHANFUAN）
 
 - [クリエーションライン株式会社](https://www.creationline.com) に在籍
-- 現代的なデータ基盤構築を専門とするソリューション・アーキテクト、リードエンジニアとして活動中
+- 現代的なデータ基盤構築を専門とするソリューションアーキテクト、リードエンジニアとして活動中
 - 代表的なプロジェクト:
 	- 大手通信キャリアにおけるDWH基盤の設計・構築
 	- Donso Factory IoT、ヨドバシカメラ、モノタロウなどにおけるデータモダナイゼーションを推進
@@ -48,7 +47,7 @@
 
 ### 掲載内容について
 ---
-『図解 Strandsエージェント徹底解説』は、基本的に Strands エージェントおよび AWS の公式ドキュメント、ならびに GitHub 上のサンプルコードをベースに構成しています。  
+**『図解 Strandsエージェント徹底解説』** は、基本的に Strands エージェントおよび AWS の公式ドキュメント、ならびに GitHub 上のサンプルコードをベースに構成しています。  
 掲載しているサンプルコードの中には、筆者の創意工夫によって独自に作成したものも含まれており、その場合はタイトルの末尾に「＋」を付けて区別しています。
 
 - [Strands User Guide/](https://strandsagents.com/latest/documentation/docs/)
@@ -153,6 +152,8 @@
 - [70-30-021.長期記憶の検索＋](70.サンプルコード/70-30-021.長期記憶の検索＋.md)
 - [70-90-010.TexToSQL＋](70.サンプルコード/70-90-010.TexToSQL＋.md)
 - [70-90-011.実行結果](70.サンプルコード/70-90-011.実行結果.md)
+-  [70-90-020.足立区粗大ごみ判定＋](70.サンプルコード/70-90-020.足立区粗大ごみ判定＋.md)
+-  [70-90-021.画像から＋](70.サンプルコード/70-90-021.画像から＋.md)
 
 #### 80.Bedrok AgentCore
 - [80-00-000.AgentCoreとは](80.AmazonBedrockAgentCore/80-00-000.AgentCoreとは.md)  
@@ -170,7 +171,6 @@
 - [80-30-020.評価](80.AmazonBedrockAgentCore/80-30-020.評価.md) 
 　
 #### 80.Bedrock Knowledge Base
-- [81-00.Bedrock Knowldege Baseとは](81.BedrockKnowledgeBase/81-00.Bedrock%20Knowldege%20Baseとは.md)
--  [81-10.足立区の壮大ごみ判別＋](81.BedrockKnowledgeBase/81-10.足立区の壮大ごみ判別＋.md)
+- [81-00.BedrockKnowldegeBaseとは](81.BedrockKnowledgeBase/81-00.BedrockKnowldegeBaseとは.md)
 - [81-11.プロビジョニング](81.BedrockKnowledgeBase/81-11.プロビジョニング.md)
 　
