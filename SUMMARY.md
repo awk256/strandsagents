@@ -24,6 +24,11 @@
 
 内容は適宜更新・修正される可能性がありますので、あらかじめご了承ください。
 
+<br>
+**初めにことばがあった。ことばは神とともにあった。ことばは神であった。**
+**－ヨハネの福音書 1:1（新改訳聖書）ー** 
+<br>
+
 2026年1月1日
 <br><br>
 
@@ -241,9 +246,7 @@ AIモデル単体では、外部のシステム（DB、API、検索）を操作�
 graph TD
     %% 最上位：タスクとユーザー
     subgraph Execution_Layer [実行タスクレイヤー]
-        Task1[画像分析]
-        Task2[RAG検索]
-        Task3[回答作成]        
+        Task1[画像分析/RAG検索/回答作成]
     end
 
     %% 第二層：フレームワーク（オーケストレーション）
@@ -256,26 +259,17 @@ graph TD
 
     %% 第三層：開発支援・IDE・AIコーディング
     subgraph Dev_Tools [開発・コーディング支援レイヤー]
-        ClaudeCode[Claude Code]
-        Codex[Codex]
-        GitLab[GitLab Duo]
-        AmazonQ[Q Developer]
+        devTools[Claude Code/Codex/GitLab Duo/Q Developer]
     end
 
     %% 第四層：プラットフォーム・SDK
     subgraph Platform_Layer [実行基盤レイヤー]
-        AgentCore[Amazon AgentCore]
-        AutoGen[Azure AutoGen]
-        GoogleADK[Google ADK]
+        platformLayer[Amazon AgentCore/Azure AutoGen/Google ADK]
     end
 
     %% 第五層：基盤モデルプロバイダー（脳）
     subgraph Model_Layer [基盤モデル・LLMレイヤー]
-		AmazonBedrock[Amazon Bedrock]
-		Anthropic[Anthropic]
-		OpenAI[OpenAI]
-		AzureOpenAI[Azure OpenAI]
-		GoogleVertexAI[Google Vertex AI]
+		modelLayer[Amazon Bedrock/Anthropic/OpenAI/Azure OpenAI/Google Vertex AI]
     end
 
     %% 関連付け
@@ -365,7 +359,7 @@ Strandsエージェントを一言で表すと、**「複雑なエージェン�
 
 Strandsエージェントの基本構成を、**「個別のエージェント構成」** と **「マルチエージェントの連携」** の2つの視点で図解します。
 
-<img src="../images/strands_agent_concept.png" width="800" alt="Strandsエージェント">
+<img src="../images/strands_agent_concept.png" width="600" alt="Strandsエージェント">
 
 
 ## 単一エージェント（Agent）の基本構造
