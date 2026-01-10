@@ -21,7 +21,7 @@
 
 内容は適宜更新・修正される可能性がありますので、あらかじめご了承ください。
 
-**初めにことばがあった。ことばは神とともにあった。ことばは神であった。**
+**初めにことばがあった。ことばは神とともにあった。ことばは神であった。**<br>
 **（『新改訳聖書』ヨハネの福音書 1:1）** 
 
 2026年1月9日
@@ -174,7 +174,8 @@
 - [80-30-010.可観測性](80.BedrockAgentCore/80-30-010.可観測性.md)  
 - [80-30-020.評価](80.BedrockAgentCore/80-30-020.評価.md) 
 　
-#### 80.Bedrock Knowledge Base
-- [81-00.BedrockKnowldegeBaseとは](81.BedrockKnowledgeBase/81-00.BedrockKnowldegeBaseとは.md)
+#### 81.Bedrock Knowledge Base
+- [81-00.BedrockKnowldegeBaseとは](80.BedrockKnowledgeBase/81-00.BedrockKnowldegeBaseとは.md)
 - [81-11.プロビジョニング](81.BedrockKnowledgeBase/81-11.プロビジョニング.md)
+- [81-20.AmazonTextract](81.BedrockKnowledgeBase/81-20.AmazonTextract.md)
 　
