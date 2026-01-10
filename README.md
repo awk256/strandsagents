@@ -1,7 +1,7 @@
 # 『図解Strandsエージェント徹底解説』
 <br>
 
-**<a href="https://github.com/strands-agents/sdk-python/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">Strands Agents Apache License 2.0</a>** は、AWS主導で開発されたオープンソースのAIエージェントSDKで、2025年5月16日に一般公開されました。 
+**[Strands Agents Apache License 2.0](https://github.com/strands-agents/sdk-python/blob/main/LICENSE)** は、AWS主導で開発されたオープンソースのAIエージェントSDKで、2025年5月16日に一般公開されました。 
 
 **Strands（ストランズ）** は、PythonまたはTypeScriptで、ツール連携（Tool Use）やマルチエージェントの構築を直感的に行える軽量なフレームワークです。
 
@@ -53,14 +53,12 @@
 **『図解 Strandsエージェント徹底解説』** は、基本的に Strands エージェントおよび AWS の公式ドキュメント、ならびに GitHub 上のサンプルコードをベースに構成しています。  
 掲載しているサンプルコードの中には、筆者の創意工夫によって独自に作成したものも含まれており、その場合はタイトルの末尾に「＋」を付けて区別しています。
 
-<ul>
-  <li><a href="https://strandsagents.com/latest/documentation/docs/" target="_blank" rel="noopener noreferrer">Strands User Guide</a></li>
-  <li><a href="https://github.com/strands-agents/" target="_blank" rel="noopener noreferrer">Strands Githubs</a></li>
-  <li><a href="https://github.com/strands-agents/samples" target="_blank" rel="noopener noreferrer">Strands Samples</a></li>
-  <li><a href="https://strandsagents.com/latest/documentation/docs/api-reference/python/agent/agent/" target="_blank" rel="noopener noreferrer">Strands Python API</a></li>
-  <li><a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html" target="_blank" rel="noopener noreferrer">Amazon Bedrock AgentCore Developer Guide</a></li>
-  <li><a href="https://github.com/awslabs/amazon-bedrock-agentcore-samples" target="_blank" rel="noopener noreferrer">Amazon Bedrock AgentCore Samples</a></li>
-</ul>
+- [Strands User Guide/](https://strandsagents.com/latest/documentation/docs/)
+- [Strands Githubs](https://github.com/strands-agents/)
+- [Strands Samples](https://github.com/strands-agents/samples)
+- [ Strands Python API](https://strandsagents.com/latest/documentation/docs/api-reference/python/agent/agent/)
+- [Amazon Bedrock AgentCore Developer Guide](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
+- [Amazon Bedrock AgentCore Samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
 <br>
 
 ### 著作権・ライセンス
