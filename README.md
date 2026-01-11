@@ -31,7 +31,7 @@
 ---
 #### 李 昌桓（LEE CHANFUAN）
 
-- <a href="https://www.creationline.com" target="_blank" rel="noopener noreferrer">クリエーションライン株式会社</a> に在籍
+- 『<a href="https://www.creationline.com" target="_blank" rel="noopener noreferrer">クリエーションライン株式会社</a>』 に在籍
 - 現代的なデータ基盤構築を専門とするソリューションアーキテクト、リードエンジニアとして活動中
 - 代表的なプロジェクト:
 	- 大手通信キャリアにおけるDWH基盤の設計・構築
