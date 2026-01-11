@@ -177,6 +177,6 @@
 - [80-30-020.評価](80.BedrockAgentCore/80-30-020.評価.md) 
 　
 #### 81.Bedrock Knowledge Base
-- [81-00.BedrockKnowldegeBaseとは](80.BedrockKnowledgeBase/81-00.BedrockKnowldegeBaseとは.md)
+- [81-00.BedrockKnowldegeBaseとは](81.BedrockKnowledgeBase/81-00.BedrockKnowldegeBaseとは.md)
 - [81-10.AmazonTextract](81.BedrockKnowledgeBase/81-10.AmazonTextract.md)
 　
