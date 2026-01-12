@@ -1,4 +1,5 @@
 
+[bookshop_schema.json]
 ```
 {
   "metadata": {
