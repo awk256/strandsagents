@@ -179,4 +179,11 @@
 #### 81.Bedrock Knowledge Base
 - [81-00.BedrockKnowldegeBaseとは](81.BedrockKnowledgeBase/81-00.BedrockKnowldegeBaseとは.md)
 - [81-10.AmazonTextract](81.BedrockKnowledgeBase/81-10.AmazonTextract.md)
-　
+
+#### 82.Bedrockエージェント
+- [82-00.Bedrockエージェントとは](82.Bedrockエージェント/82-00.Bedrockエージェントとは.md)
+- [82-10.マルチエージェント・コラボレーションの実装](82.Bedrockエージェント/82-10.マルチエージェント・コラボレーションの実装.md)
+
+#### 83.Bedrockプロンプトマネージメント
+- [83-00.Bedrockプロンプトマネジメントとは](83.Bedrockプロンプトマネージメント/83-00.Bedrockプロンプトマネジメントとは.md)
+- [83-10.プロンプトビルダーによるプロンプト開発](83.Bedrockプロンプトマネージメント/83-10.プロンプトビルダーによるプロンプト開発.md)
