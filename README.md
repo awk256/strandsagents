@@ -3,14 +3,14 @@
 
 **[Strands Agents Apache License 2.0](https://github.com/strands-agents/sdk-python/blob/main/LICENSE)** は、AWS主導で開発されたオープンソースのAIエージェントSDKで、2025年5月16日に一般公開されました。 
 
-**Strands（ストランズ）** は、PythonまたはTypeScriptで、ツール連携（Tool Use）やマルチエージェントの構築を直感的に行える軽量なフレームワークです。
+**Strandsエージェント(ストランズエージェント）** は、PythonまたはTypeScriptで、ツール連携（Tool Use）やマルチエージェントの構築を直感的に行える軽量なフレームワークです。
 
 「もっとシンプルに、そして人間のように自律的に動くエージェントを作りたい」 という開発者の想いから生まれ、**LangGraphの対抗馬** としても注目を集めています。
 
 <img src="images/strands_agent_technical_guide.png" width="400" alt="図解Strandsエージェント徹底解説">
 
 
-本サイト『**図解 Strandsエージェント徹底解説**』は、筆者が Strands を学習・検証する過程で記録してきたメモをもとに構成しています。
+本サイト『**図解 Strandsエージェント徹底解説**』は、筆者が Strandsエージェントを学習・検証する過程で記録してきたメモをもとに構成しています。
 
 Strandsエージェントによる**AIエージェント開発**に取り組む方々にとって、本サイトが少しでも参考になれば幸いです。
 
