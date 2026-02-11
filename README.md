@@ -46,7 +46,8 @@ Strandsエージェントによる**AIエージェント開発**に取り組む�
 - Neo4jを使うグラフ型データベース入門（共著）、リックテレコム、2016
 - RDB技術者のためのNoSQLガイド（共著）、秀和システム新社、2016
 - [図解 Strandsエージェント徹底解説](https://github.com/awk256/strandsagents)、2026（Web公開※）  
-- [図解 Amazon Bedrock徹底解説](https://github.com/awk256/amazon-bedrock)、2026（Web公開※）  
+- [図解 Amazon Bedrock徹底解説](https://github.com/awk256/amazon-bedrock)、2026（Web公開※） 
+- [孫子で解く安全なAI活用の意思決定](https://github.com/awk256/TheArtOfWarBySunTzu)、2026（Web公開※）
  ※本書は紙での出版予定はありません。
 <br>
 
