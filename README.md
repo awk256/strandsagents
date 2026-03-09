@@ -1,4 +1,4 @@
-あｄ# 『図解Strandsエージェント徹底解説』
+# 『図解Strandsエージェント徹底解説』
 <br>
 
 **[Strands Agents Apache License 2.0](https://github.com/strands-agents/sdk-python/blob/main/LICENSE)** は、AWS主導で開発されたオープンソースのAIエージェントSDKで、2025年5月16日に一般公開されました。 
